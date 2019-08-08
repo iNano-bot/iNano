@@ -5,7 +5,7 @@ So pls, be kind and don't pick on me if you're looking for something pro, i'm ju
 
 ### First Thing First
 
-within this repo, i'm going to upload writeups and little footsteps i'll do in my path to success, willing to learn as much as i can in the meanwhile from my fellow collegue and mentor @Last. Check the badges at the bottom of this pages and reach out SquareWaveteam to pay some respect, they're all awesome.
+within this repo, i'm going to upload writeups and little footsteps i'll do in my path to success, willing to learn as much as i can in the meanwhile from my fellow collegue and mentor @last. Check the badges at the bottom of this pages and reach out SquareWaveteam to pay some respect, they're all awesome.
 
 That said, i won't be obnoxious anymore so...hope u'll enjoy!
 
@@ -23,10 +23,10 @@ That said, i won't be obnoxious anymore so...hope u'll enjoy!
 ### Support or Contact
 
 Wanna somehow support me? wanna contact me sending some insult? Just reach me here [mail](mail.to:filippocarl@protonmail.com)
-<script src="https://www.hackthebox.eu/badge/157347"></script>
+<img src="https://www.hackthebox.eu/badge/image/157347" alt="Hack The Box">
 
 
-<script src="https://www.hackthebox.eu/badge/team/1571"></script>
+<img src="https://www.hackthebox.eu/badge/team/image/1571" alt="Hack The Box">
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
