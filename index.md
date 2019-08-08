@@ -5,14 +5,14 @@ So pls, be kind and don't pick on me if you're looking for something pro, i'm ju
 
 ### First Thing First
 
-within this repo, i'm going to upload writeups and little footsteps i'll do in my path to success, willing to learn as much as i can in the meanwhile. Trying to be professional but, again, i'm new to this so i don't think i'll be. If you don't bother helping, just nudge me with some advice. No shitstorming, guys, be gentle.
+within this repo, i'm going to upload writeups and little footsteps i'll do in my path to success, willing to learn as much as i can in the meanwhile from my fellow collegue and mentor @Last. Check the badges at the bottom of this pages and reach out SquareWaveteam to pay some respect, they're all awesome.
 
 That said, i won't be obnoxious anymore so...hope u'll enjoy!
 
 ```markdown
 
-1.[Haystack](http://inano-bot.github.io/iNano/haystack)
-2.Writeup
+1. [Haystack](https://inano-bot.github.io/iNano/haystack)
+2. Writeup
 
 ```
 
