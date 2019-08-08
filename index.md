@@ -1,12 +1,11 @@
 ## Welcome to iNano project
 
-You can use the [editor on GitHub](https://github.com/iNano-bot/iNano/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello everybody, iNano here starting this new project. I'm really new to infosec and pentesting and i'm wishing to improve by sharing my experience with all of you.
+So pls, be kind and don't pick on me if you're looking for something pro, i'm just a n00b pretending to master the thing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### First Thing First
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+within this repo, i'm going to upload writeups and little footsteps i'll do in my path to success, willing to learn as much as i can in the meanwhile. Trying to be professional but, again, i'm new to this so i don't think i'll be. If you don't bother helping, just nudge me with some advice. No shitstorming, guys, be gentle.
 
 ```markdown
 Syntax highlighted code block
