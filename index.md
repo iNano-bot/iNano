@@ -23,7 +23,7 @@ That said, i won't be obnoxious anymore so...hope u'll enjoy!
 ### Support or Contact
 
 Wanna somehow support me? wanna contact me sending some insult? Just reach me here [mail](mail.to:filippocarl@protonmail.com)
-<img src="https://www.hackthebox.eu/badge/image/157347" alt="Hack The Box">
+<script src="https://www.hackthebox.eu/badge/157347"></script>
 
 
 <img src="https://www.hackthebox.eu/badge/team/image/1571" alt="Hack The Box">
